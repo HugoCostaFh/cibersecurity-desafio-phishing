@@ -18,6 +18,6 @@
 - Obtendo o endereço da máquina: ``` ifconfig ```(não foi necessário pois a máquina o identificou)
 - URL para clone: https://my.oneforma.com/Account/login
 
-### Resutados
+### Resultado
 
 ![Image Alt](https://github.com/HugoCostaFh/cibersecurity-desafio-phishing/blob/ea7752042c84fb69fb3a84360bd7e324564891e8/Captura%20do%20desafio%20Ciberseguran%C3%A7a.PNG)
