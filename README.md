@@ -1,4 +1,6 @@
-# Phishing para captura de senhas do Facebook
+# Phishing para captura de credenciais de página web da OneForma
+
+## Foram usadas as mesmas ferramentas e seguido os mesmos passos conforme abaixo:
 
 ### Ferramentas
 
@@ -13,8 +15,8 @@
 - Vetor de ataque: ``` Web Site Attack Vectors ```
 - Método de ataque: ```Credential Harvester Attack Method ```
 - Método de ataque: ``` Site Cloner ```
-- Obtendo o endereço da máquina: ``` ifconfig ```
-- URL para clone: http://www.facebook.com
+- Obtendo o endereço da máquina: ``` ifconfig ```(não foi necessário pois a máquina o identificou)
+- URL para clone: https://my.oneforma.com/Account/login
 
 ### Resutados
 
