@@ -20,4 +20,7 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![Alt text][def]
+
+
+[def]: ./passwd.png "Optional title"
