@@ -19,8 +19,3 @@
 - URL para clone: https://my.oneforma.com/Account/login
 
 ### Resutados
-
-![Alt text][def]
-
-
-[def]: ./passwd.png "Optional title"
